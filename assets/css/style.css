@@ -5,6 +5,10 @@
   padding: 0px;
 }
 
-body, html {
-  font-family: ;
+body {
+  background-color: lightgray;
+}
+
+img {
+  max-width: 100px;
 }
