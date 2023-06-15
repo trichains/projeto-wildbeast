@@ -209,12 +209,12 @@ a {
   grid-column: 1 / -1;
 }
 
-.lobo-1 {
+.animal-1 {
   grid-row: span 2;
   align-self: end;
 }
 
-.lobo-2 {
+.animal-2 {
   align-self: end;
 }
 
@@ -281,6 +281,11 @@ p {
   font-size: 3em;
   line-height: 1;
   margin: 10px auto;
+}
+
+.tresdigitos {
+  font-size: 2.5rem;
+  margin: 14px auto;
 }
 
 .rotulo {
